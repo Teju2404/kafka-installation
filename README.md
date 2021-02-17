@@ -1,11 +1,11 @@
 # Kafka - Installation
 
 1. [Download](https://apache.claz.org/kafka/2.7.0/kafka_2.13-2.7.0.tgz)
-## To extract the downloaded file.Follow the below commands using GitBash
+### To extract the downloaded file.Follow the below commands using GitBash
 1. $ tar -xzf kafka_2.13-2.7.0.tgz
 1. $ cd kafka_2.13-2.7.0
-2.
-## To start the Kafka Environment
+
+### To start the Kafka Environment
 ### Kafka-Commands
 
 - Use a different PowerShell as Administrator window for each process.  You may minimize windows, but they must remain  open to keep the processes running.
